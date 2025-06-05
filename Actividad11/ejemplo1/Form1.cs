@@ -15,9 +15,6 @@ namespace ejemplo1
         private void button1_Click(object sender, EventArgs e)
         {
 
-
-
-
             double valor = Convert.ToDouble(textBox1.Text);
 
             acumulador += valor;

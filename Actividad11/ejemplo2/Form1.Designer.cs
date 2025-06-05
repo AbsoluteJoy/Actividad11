@@ -43,6 +43,7 @@
             btnPromedio.TabIndex = 9;
             btnPromedio.Text = "Calcular Promedio";
             btnPromedio.UseVisualStyleBackColor = true;
+            btnPromedio.Click += btnPromedio_Click;
             // 
             // textBox2
             // 
@@ -77,6 +78,7 @@
             btnRegistrar.TabIndex = 5;
             btnRegistrar.Text = "Registrar";
             btnRegistrar.UseVisualStyleBackColor = true;
+            btnRegistrar.Click += button1_Click;
             // 
             // Form1
             // 
